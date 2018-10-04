@@ -1,0 +1,6966 @@
+fileFormatVersion: 2
+guid: 68c67593d1beaee41ad2e619d369a803
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: marioWorldMapTileSet_0
+    21300002: marioWorldMapTileSet_1
+    21300004: marioWorldMapTileSet_2
+    21300006: marioWorldMapTileSet_3
+    21300008: marioWorldMapTileSet_4
+    21300010: marioWorldMapTileSet_5
+    21300012: marioWorldMapTileSet_6
+    21300014: marioWorldMapTileSet_7
+    21300016: marioWorldMapTileSet_8
+    21300018: marioWorldMapTileSet_9
+    21300020: marioWorldMapTileSet_10
+    21300022: marioWorldMapTileSet_11
+    21300024: marioWorldMapTileSet_12
+    21300026: marioWorldMapTileSet_13
+    21300028: marioWorldMapTileSet_14
+    21300030: marioWorldMapTileSet_15
+    21300032: marioWorldMapTileSet_16
+    21300034: marioWorldMapTileSet_17
+    21300036: marioWorldMapTileSet_18
+    21300038: marioWorldMapTileSet_19
+    21300040: marioWorldMapTileSet_20
+    21300042: marioWorldMapTileSet_21
+    21300044: marioWorldMapTileSet_22
+    21300046: marioWorldMapTileSet_23
+    21300048: marioWorldMapTileSet_24
+    21300050: marioWorldMapTileSet_25
+    21300052: marioWorldMapTileSet_26
+    21300054: marioWorldMapTileSet_27
+    21300056: marioWorldMapTileSet_28
+    21300058: marioWorldMapTileSet_29
+    21300060: marioWorldMapTileSet_30
+    21300062: marioWorldMapTileSet_31
+    21300064: marioWorldMapTileSet_32
+    21300066: marioWorldMapTileSet_33
+    21300068: marioWorldMapTileSet_34
+    21300070: marioWorldMapTileSet_35
+    21300072: marioWorldMapTileSet_36
+    21300074: marioWorldMapTileSet_37
+    21300076: marioWorldMapTileSet_38
+    21300078: marioWorldMapTileSet_39
+    21300080: marioWorldMapTileSet_40
+    21300082: marioWorldMapTileSet_41
+    21300084: marioWorldMapTileSet_42
+    21300086: marioWorldMapTileSet_43
+    21300088: marioWorldMapTileSet_44
+    21300090: marioWorldMapTileSet_45
+    21300092: marioWorldMapTileSet_46
+    21300094: marioWorldMapTileSet_47
+    21300096: marioWorldMapTileSet_48
+    21300098: marioWorldMapTileSet_49
+    21300100: marioWorldMapTileSet_50
+    21300102: marioWorldMapTileSet_51
+    21300104: marioWorldMapTileSet_52
+    21300106: marioWorldMapTileSet_53
+    21300108: marioWorldMapTileSet_54
+    21300110: marioWorldMapTileSet_55
+    21300112: marioWorldMapTileSet_56
+    21300114: marioWorldMapTileSet_57
+    21300116: marioWorldMapTileSet_58
+    21300118: marioWorldMapTileSet_59
+    21300120: marioWorldMapTileSet_60
+    21300122: marioWorldMapTileSet_61
+    21300124: marioWorldMapTileSet_62
+    21300126: marioWorldMapTileSet_63
+    21300128: marioWorldMapTileSet_64
+    21300130: marioWorldMapTileSet_65
+    21300132: marioWorldMapTileSet_66
+    21300134: marioWorldMapTileSet_67
+    21300136: marioWorldMapTileSet_68
+    21300138: marioWorldMapTileSet_69
+    21300140: marioWorldMapTileSet_70
+    21300142: marioWorldMapTileSet_71
+    21300144: marioWorldMapTileSet_72
+    21300146: marioWorldMapTileSet_73
+    21300148: marioWorldMapTileSet_74
+    21300150: marioWorldMapTileSet_75
+    21300152: marioWorldMapTileSet_76
+    21300154: marioWorldMapTileSet_77
+    21300156: marioWorldMapTileSet_78
+    21300158: marioWorldMapTileSet_79
+    21300160: marioWorldMapTileSet_80
+    21300162: marioWorldMapTileSet_81
+    21300164: marioWorldMapTileSet_82
+    21300166: marioWorldMapTileSet_83
+    21300168: marioWorldMapTileSet_84
+    21300170: marioWorldMapTileSet_85
+    21300172: marioWorldMapTileSet_86
+    21300174: marioWorldMapTileSet_87
+    21300176: marioWorldMapTileSet_88
+    21300178: marioWorldMapTileSet_89
+    21300180: marioWorldMapTileSet_90
+    21300182: marioWorldMapTileSet_91
+    21300184: marioWorldMapTileSet_92
+    21300186: marioWorldMapTileSet_93
+    21300188: marioWorldMapTileSet_94
+    21300190: marioWorldMapTileSet_95
+    21300192: marioWorldMapTileSet_96
+    21300194: marioWorldMapTileSet_97
+    21300196: marioWorldMapTileSet_98
+    21300198: marioWorldMapTileSet_99
+    21300200: marioWorldMapTileSet_100
+    21300202: marioWorldMapTileSet_101
+    21300204: marioWorldMapTileSet_102
+    21300206: marioWorldMapTileSet_103
+    21300208: marioWorldMapTileSet_104
+    21300210: marioWorldMapTileSet_105
+    21300212: marioWorldMapTileSet_106
+    21300214: marioWorldMapTileSet_107
+    21300216: marioWorldMapTileSet_108
+    21300218: marioWorldMapTileSet_109
+    21300220: marioWorldMapTileSet_110
+    21300222: marioWorldMapTileSet_111
+    21300224: marioWorldMapTileSet_112
+    21300226: marioWorldMapTileSet_113
+    21300228: marioWorldMapTileSet_114
+    21300230: marioWorldMapTileSet_115
+    21300232: marioWorldMapTileSet_116
+    21300234: marioWorldMapTileSet_117
+    21300236: marioWorldMapTileSet_118
+    21300238: marioWorldMapTileSet_119
+    21300240: marioWorldMapTileSet_120
+    21300242: marioWorldMapTileSet_121
+    21300244: marioWorldMapTileSet_122
+    21300246: marioWorldMapTileSet_123
+    21300248: marioWorldMapTileSet_124
+    21300250: marioWorldMapTileSet_125
+    21300252: marioWorldMapTileSet_126
+    21300254: marioWorldMapTileSet_127
+    21300256: marioWorldMapTileSet_128
+    21300258: marioWorldMapTileSet_129
+    21300260: marioWorldMapTileSet_130
+    21300262: marioWorldMapTileSet_131
+    21300264: marioWorldMapTileSet_132
+    21300266: marioWorldMapTileSet_133
+    21300268: marioWorldMapTileSet_134
+    21300270: marioWorldMapTileSet_135
+    21300272: marioWorldMapTileSet_136
+    21300274: marioWorldMapTileSet_137
+    21300276: marioWorldMapTileSet_138
+    21300278: marioWorldMapTileSet_139
+    21300280: marioWorldMapTileSet_140
+    21300282: marioWorldMapTileSet_141
+    21300284: marioWorldMapTileSet_142
+    21300286: marioWorldMapTileSet_143
+    21300288: marioWorldMapTileSet_144
+    21300290: marioWorldMapTileSet_145
+    21300292: marioWorldMapTileSet_146
+    21300294: marioWorldMapTileSet_147
+    21300296: marioWorldMapTileSet_148
+    21300298: marioWorldMapTileSet_149
+    21300300: marioWorldMapTileSet_150
+    21300302: marioWorldMapTileSet_151
+    21300304: marioWorldMapTileSet_152
+    21300306: marioWorldMapTileSet_153
+    21300308: marioWorldMapTileSet_154
+    21300310: marioWorldMapTileSet_155
+    21300312: marioWorldMapTileSet_156
+    21300314: marioWorldMapTileSet_157
+    21300316: marioWorldMapTileSet_158
+    21300318: marioWorldMapTileSet_159
+    21300320: marioWorldMapTileSet_160
+    21300322: marioWorldMapTileSet_161
+    21300324: marioWorldMapTileSet_162
+    21300326: marioWorldMapTileSet_163
+    21300328: marioWorldMapTileSet_164
+    21300330: marioWorldMapTileSet_165
+    21300332: marioWorldMapTileSet_166
+    21300334: marioWorldMapTileSet_167
+    21300336: marioWorldMapTileSet_168
+    21300338: marioWorldMapTileSet_169
+    21300340: marioWorldMapTileSet_170
+    21300342: marioWorldMapTileSet_171
+    21300344: marioWorldMapTileSet_172
+    21300346: marioWorldMapTileSet_173
+    21300348: marioWorldMapTileSet_174
+    21300350: marioWorldMapTileSet_175
+    21300352: marioWorldMapTileSet_176
+    21300354: marioWorldMapTileSet_177
+    21300356: marioWorldMapTileSet_178
+    21300358: marioWorldMapTileSet_179
+    21300360: marioWorldMapTileSet_180
+    21300362: marioWorldMapTileSet_181
+    21300364: marioWorldMapTileSet_182
+    21300366: marioWorldMapTileSet_183
+    21300368: marioWorldMapTileSet_184
+    21300370: marioWorldMapTileSet_185
+    21300372: marioWorldMapTileSet_186
+    21300374: marioWorldMapTileSet_187
+    21300376: marioWorldMapTileSet_188
+    21300378: marioWorldMapTileSet_189
+    21300380: marioWorldMapTileSet_190
+    21300382: marioWorldMapTileSet_191
+    21300384: marioWorldMapTileSet_192
+    21300386: marioWorldMapTileSet_193
+    21300388: marioWorldMapTileSet_194
+    21300390: marioWorldMapTileSet_195
+    21300392: marioWorldMapTileSet_196
+    21300394: marioWorldMapTileSet_197
+    21300396: marioWorldMapTileSet_198
+    21300398: marioWorldMapTileSet_199
+    21300400: marioWorldMapTileSet_200
+    21300402: marioWorldMapTileSet_201
+    21300404: marioWorldMapTileSet_202
+    21300406: marioWorldMapTileSet_203
+    21300408: marioWorldMapTileSet_204
+    21300410: marioWorldMapTileSet_205
+    21300412: marioWorldMapTileSet_206
+    21300414: marioWorldMapTileSet_207
+    21300416: marioWorldMapTileSet_208
+    21300418: marioWorldMapTileSet_209
+    21300420: marioWorldMapTileSet_210
+    21300422: marioWorldMapTileSet_211
+    21300424: marioWorldMapTileSet_212
+    21300426: marioWorldMapTileSet_213
+    21300428: marioWorldMapTileSet_214
+    21300430: marioWorldMapTileSet_215
+    21300432: marioWorldMapTileSet_216
+    21300434: marioWorldMapTileSet_217
+    21300436: marioWorldMapTileSet_218
+    21300438: marioWorldMapTileSet_219
+    21300440: marioWorldMapTileSet_220
+    21300442: marioWorldMapTileSet_221
+    21300444: marioWorldMapTileSet_222
+    21300446: marioWorldMapTileSet_223
+    21300448: marioWorldMapTileSet_224
+    21300450: marioWorldMapTileSet_225
+    21300452: marioWorldMapTileSet_226
+    21300454: marioWorldMapTileSet_227
+    21300456: marioWorldMapTileSet_228
+    21300458: marioWorldMapTileSet_229
+    21300460: marioWorldMapTileSet_230
+    21300462: marioWorldMapTileSet_231
+    21300464: marioWorldMapTileSet_232
+    21300466: marioWorldMapTileSet_233
+    21300468: marioWorldMapTileSet_234
+    21300470: marioWorldMapTileSet_235
+    21300472: marioWorldMapTileSet_236
+    21300474: marioWorldMapTileSet_237
+    21300476: marioWorldMapTileSet_238
+    21300478: marioWorldMapTileSet_239
+    21300480: marioWorldMapTileSet_240
+    21300482: marioWorldMapTileSet_241
+    21300484: marioWorldMapTileSet_242
+    21300486: marioWorldMapTileSet_243
+    21300488: marioWorldMapTileSet_244
+    21300490: marioWorldMapTileSet_245
+    21300492: marioWorldMapTileSet_246
+    21300494: marioWorldMapTileSet_247
+    21300496: marioWorldMapTileSet_248
+    21300498: marioWorldMapTileSet_249
+    21300500: marioWorldMapTileSet_250
+    21300502: marioWorldMapTileSet_251
+    21300504: marioWorldMapTileSet_252
+    21300506: marioWorldMapTileSet_253
+    21300508: marioWorldMapTileSet_254
+    21300510: marioWorldMapTileSet_255
+    21300512: marioWorldMapTileSet_256
+    21300514: marioWorldMapTileSet_257
+    21300516: marioWorldMapTileSet_258
+    21300518: marioWorldMapTileSet_259
+    21300520: marioWorldMapTileSet_260
+    21300522: marioWorldMapTileSet_261
+    21300524: marioWorldMapTileSet_262
+    21300526: marioWorldMapTileSet_263
+    21300528: marioWorldMapTileSet_264
+    21300530: marioWorldMapTileSet_265
+    21300532: marioWorldMapTileSet_266
+    21300534: marioWorldMapTileSet_267
+    21300536: marioWorldMapTileSet_268
+    21300538: marioWorldMapTileSet_269
+    21300540: marioWorldMapTileSet_270
+    21300542: marioWorldMapTileSet_271
+    21300544: marioWorldMapTileSet_272
+    21300546: marioWorldMapTileSet_273
+    21300548: marioWorldMapTileSet_274
+    21300550: marioWorldMapTileSet_275
+    21300552: marioWorldMapTileSet_276
+    21300554: marioWorldMapTileSet_277
+    21300556: marioWorldMapTileSet_278
+    21300558: marioWorldMapTileSet_279
+    21300560: marioWorldMapTileSet_280
+    21300562: marioWorldMapTileSet_281
+    21300564: marioWorldMapTileSet_282
+    21300566: marioWorldMapTileSet_283
+    21300568: marioWorldMapTileSet_284
+    21300570: marioWorldMapTileSet_285
+    21300572: marioWorldMapTileSet_286
+    21300574: marioWorldMapTileSet_287
+    21300576: marioWorldMapTileSet_288
+    21300578: marioWorldMapTileSet_289
+    21300580: marioWorldMapTileSet_290
+    21300582: marioWorldMapTileSet_291
+    21300584: marioWorldMapTileSet_292
+    21300586: marioWorldMapTileSet_293
+    21300588: marioWorldMapTileSet_294
+    21300590: marioWorldMapTileSet_295
+    21300592: marioWorldMapTileSet_296
+    21300594: marioWorldMapTileSet_297
+    21300596: marioWorldMapTileSet_298
+    21300598: marioWorldMapTileSet_299
+    21300600: marioWorldMapTileSet_300
+    21300602: marioWorldMapTileSet_301
+    21300604: marioWorldMapTileSet_302
+    21300606: marioWorldMapTileSet_303
+    21300608: marioWorldMapTileSet_304
+    21300610: marioWorldMapTileSet_305
+    21300612: marioWorldMapTileSet_306
+    21300614: marioWorldMapTileSet_307
+    21300616: marioWorldMapTileSet_308
+    21300618: marioWorldMapTileSet_309
+    21300620: marioWorldMapTileSet_310
+    21300622: marioWorldMapTileSet_311
+    21300624: marioWorldMapTileSet_312
+    21300626: marioWorldMapTileSet_313
+    21300628: marioWorldMapTileSet_314
+    21300630: marioWorldMapTileSet_315
+    21300632: marioWorldMapTileSet_316
+    21300634: marioWorldMapTileSet_317
+    21300636: marioWorldMapTileSet_318
+    21300638: marioWorldMapTileSet_319
+    21300640: marioWorldMapTileSet_320
+    21300642: marioWorldMapTileSet_321
+    21300644: marioWorldMapTileSet_322
+    21300646: marioWorldMapTileSet_323
+    21300648: marioWorldMapTileSet_324
+    21300650: marioWorldMapTileSet_325
+    21300652: marioWorldMapTileSet_326
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 389.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2e3d93da836e34e81eb1f64df59d81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 389.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271b79726b2a8a549a4dd3e65324b582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 389.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a5a91538711a240950accabc4e16ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 389.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022f60839a7f1b14ca1bf074c831ffcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 389.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03974ab4a8355e547b18e104e9ff045a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 389.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d848ff717758ef44987fb270566d2264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 389.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221778f7e73668948a3534334f8a00c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 389.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df04a062a1830f40a91d8983be702b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 389.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8d966b74456f64a951470488072f9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 389.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9aacd406038d54c92f7884f4ff4bb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 389.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56684e9187619c842827ed8571aad813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_11
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 389.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc1e01c49e58d84fb48b55b4c5c978f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 389.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa3785f6ce1b5a4c9a6cc38adc28b6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_13
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 389.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac69eebf01c8ec40a43eb67f913395b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_14
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 389.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f16e23531d97449bab061d5318679c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 389.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8356f8e9df44c8f418f357a4d6dcdc10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_16
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 389.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69523ac0cf1789749854edc3a2785bf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 369.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fc840002f023a4e8fb9e99e738c886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 369.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f992f74f0e6cb4ea420b721c7c087d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_19
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 369.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4ef16c3567dda4283121e03a719d2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_20
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 369.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684e0931e960e814aa388d36e2cab61e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_21
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 369.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793a224fa3f02e043b7b5d1eff3315c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_22
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 369.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55680b26c6bd8140ac0f1a139c033c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_23
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 369.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48af025d6c25c254cb903f05db02767a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_24
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 369.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c704d98823b8941a3288c314fff24f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_25
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 369.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b733918c3424940bea4b094626999a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_26
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 369.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623ddcd1e1b074b4bbd389e110900f1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_27
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 369.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1b7263714b25d4c82d89d3148d825b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_28
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 369.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0a91f3faadfa34dbd8fddd7f9c8f0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_29
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 369.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20beeec15cac374590a7562586e5d75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_30
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 369.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8dcc7ab29c18624f92a9fadc9eea27e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_31
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 369.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa79692c82d98c4197935d6bb96a917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_32
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 369.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae0ebe8ece97a6438537c694962db5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_33
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 369.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928214e59bdfc9047b236c1f9b2fbda8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_34
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 369.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39857534a59f6fc499f56d1207b9ac07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 349.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f6ddf3a3b106c4798064b2861f870b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_36
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 349.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07ba78b0c641e34195f91f91bde081a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_37
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 349.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abce7ba2aef9d94d97b62b6b6532ec5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_38
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 349.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059603a7fa7215f4cb5704e09ee582cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_39
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 349.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac5525d69f82ca4eb07ecadc69697b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_40
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 349.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabf6126eb230e04cbf18437d34bd961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_41
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 349.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8be4512f01ce394b8f861f3af2a38c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_42
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 349.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48847adb0df638d48a43aaf6cb586955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_43
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 349.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af52f2b5ba371447aa10f3ebdcaf291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_44
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 349.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fdaf34c05f3f44daedb0e62a6f42c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_45
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 349.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1238253425b8be4286095dbc5e65cb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_46
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 349.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144af4b1a866cd242b27d9841845051e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_47
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 349.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba3edd9731fb374f9915367182dc96c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_48
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 349.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8cc46a75c947741860913ede9e2d89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_49
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 349.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f05c9058a562e54f9f24a40c51804aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_50
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 349.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59523b107a0f6124b8cebee75d069d38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_51
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 349.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967618371cd724440a72d0c9b9709e95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_52
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 349.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89d72b7e0379f94e893c931358fb0fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_53
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 349.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d2c160ddf6b564b99bf95de04a65ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 329.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f460148c8e850c47bb3feeadfe5a920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_55
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 329.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b743fdc5ee20fda49a117756b14f2817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_56
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 329.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19e5d9d39b50a44ab34870b0f7596ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_57
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 329.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167a1d59bea46bb4ab8ca0b755d129ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_58
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 329.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9113aff8911eb41a03772662142b13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_59
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 329.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8a7d9539463ce42bdf1d26a6a00aa7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_60
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 329.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584e6906a6bba9342a65475f2fbf54a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_61
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 329.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bba0445c1e06548a57b08980586823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_62
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 329.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101bd48ce90b5aa45a0c9f90dbfccdef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_63
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 329.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97630eb5e929c2442aea9fb06c8c7bdd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_64
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 329.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6063db3e8e72ba46b22076f63a9f6ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_65
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 329.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51db3d6501aa4e346a384be77c9ad50b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_66
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 329.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3495cc9bc57594f8eda3e906d96f72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_67
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 329.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e8337827e388747a6ee2a1268ccb07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_68
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 329.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387702754cd699648a795b79f27aaa5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_69
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 329.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39069c249917bc849a12846da18b72b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_70
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 329.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ce3746f5f01394492cfed8c4672548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_71
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 329.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50e5be0d4acde042b4ec70ff4782e0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_72
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 329.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12160934c212b54449404dc7ce878fcd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 309.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a503a55bbaa40af4fbd38dced2334b22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_74
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 309.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0833f616c3bd98345bd017991288db3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_75
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 309.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e6ad1a0f709224f8b5eca0a3b535ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_76
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 309.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37d5d2e53aeebe43b0a22cb89d40da9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_77
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 309.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7ab3293c8e52b42bbc5c5a01fcb0f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_78
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 309.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6112aaa11669347bca63689704e708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_79
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 309.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55eb2c538405e23448c115251054e815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_80
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 309.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de2b1be2438d854590bc8b07eb452ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_81
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 309.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6c6df6e07425944972a7f4e9aff6f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_82
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 309.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f30f78f4b389e4cabdd0ee8bbf11e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_83
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 309.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1719d5fd1d7dfba49905d392acec6c74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_84
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 309.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24ccc03cb6b08c4d85364d08dbeb93c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_85
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 309.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca665b937185f2b489af59a0605c6d6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_86
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 309.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1343fee8f33ab149b37f5f1990e31ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_87
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 309.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f41f222775f484bafc08684df243ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_88
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 309.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f98cca80126917498e30c91901832fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_89
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 309.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6530e20554a294dbb3c3dba1170e24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_90
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 309.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b533d1764bfd14cad538f337a99fe0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa8ecfcef5ccfa4bb76e5dfb2943af1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_92
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 289.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e96651fea6856438f11550705e42dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_93
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 289.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16143905c651fc644aebea3b82e6816c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_94
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 289.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f6de4c432cbba4c9525788052e822b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_95
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 289.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de173fe0a165bf545afdf8cdf6d8b6b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_96
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 289.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcda9b5f72961e489b19a3c38173f9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_97
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 289.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fbcf155996d8b4d9aa9ca25b0de1e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_98
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 289.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a471a7b199f20458dc22be3c400e97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_99
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 289.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6183d28414596fc4fa0a501f96aedbc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_100
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 289.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38ab10e1cbb95741865a0ff25d3a5a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_101
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 289.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a41528e52f74e4ba230a49f3d867aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_102
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 289.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ebc43f56b02d644b0e4e32a49dd7c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_103
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 289.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256424c96d4816f46a47f0c31149afbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_104
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 289.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7510d71dcc951458daca0ece3b61ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_105
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 289.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8370371f6b74e0c4eabbd3c0251820bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_106
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 289.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b0ff32fc0523649a6b6f6f109beef3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_107
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 289.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f25f00cf5a24c1418154d5b35c06fa8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_108
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 289.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fce951017a7c648a47cf408b60d851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 269.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de261088a2ce3de4283a2a6f743a415b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_110
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 269.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ec961a0972b7a4da7cd51ac810a023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_111
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 269.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2bd057f0116344e92458d240111454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_112
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 269.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0ee6d43b6eab9449e3d5a5f2221579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_113
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 269.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88629e094e3a04f4d8c7f1cbc8e605c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_114
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 269.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541ab15edca90404196b0ea6a9b2ef59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_115
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 269.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1dd54b4cd1955643ac2c5e25d8e933c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_116
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 269.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890ab25777ae33e46b84d09ede2e4e4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_117
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 269.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8ce2b412dfaef48bdf6de69ff752e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_118
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 269.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230db6663f0b41d4f9bfd42719336e4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_119
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 269.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ae4880cc7edd845bea5ea32bac5b01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_120
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 269.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e0c56b56be56e41aecc97cb2991853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_121
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 269.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5de60ca09ebd67418a0f4bb7b68231b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_122
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 269.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dd252fc30757240baaab9db59ca536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_123
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 269.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc20a08dc567394e846676984caa544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_124
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 269.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa5a7ff066dc194ca82ca351ad7da6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_125
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 269.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9674e3d8cf07c43946b0e86f9040e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_126
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 269.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c51464b52c49b5459378a2503bbb391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_127
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 269.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea4981fa6423254fb233a03a9b98580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 249.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8736d07d0ab991942916ba2084707600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_129
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 249.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ea898d5d738e343a5ee7d724bd39c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_130
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 249.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a188addc46b6ce44a3465561979706b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_131
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 249.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2f1bf0422db5f4996f499a6002ada1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_132
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 249.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15e605401579064caa0a352537a24ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_133
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 249.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42dc2b5e8c8bee7468334b925c57d7cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_134
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 249.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6088881261240ad4aad3bbd121118e14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_135
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 249.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9ad99dd3c189c4cb4c509399594c45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_136
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 249.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f69940047a1634bbc67686403aff84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_137
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 249.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b38e08406794e4a98f708df9e6b83a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_138
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 249.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757a5f2c2664f0b4bb31595db86b25cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_139
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 249.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60aa0486dcc25f440b747b6d016db730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_140
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 249.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6845944d026c71d4f829eae680707a32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_141
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 249.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153138dadc846b143ba9593278cc438c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_142
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 249.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5de4c21ddda2f445aba5c1306903160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_143
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 249.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6aeb22f27b9d414797eb93613a2ec95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_144
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 249.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef1cb67ee2c2324cb26b135024ce72d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_145
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 249.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4e9d797f05b5747b799b4c8aaadac9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_146
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 249.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38b1e14066c1a84bb2c466f3e3b59ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_147
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 249.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6413cab4a7d5d4a86bdc1dd78de221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_148
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 229.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6a6856e7ddbef49b4aa6e998f0ba72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_149
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 229.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c2300d499d9044d90ccad49a0a7e48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_150
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 229.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f592eacf826d504c84e0c7383ad4e25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_151
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 229.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2e8bf27985f1f439b3bd5ee99a6fea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_152
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 229.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a505e8c0a7fb746a968645fe8d005e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_153
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 229.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa853aab98ad664f9a68732bbda68d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_154
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 229.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8047801d0c8bf43b119e432e96b757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_155
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 229.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881f9e4b9c406b54fa5149e2c56858d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_156
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 229.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60809a4f5534cc4e98415186ee85bfa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_157
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 229.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8b046c958b6f54b9b1b41aa892acd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_158
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 229.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8f92c0e9a65754987e605ff2f102ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_159
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 229.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0365ab23857c8469624959b2b39037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_160
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 229.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135dfe683ef5bb64bac8bfc664cde32b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_161
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 229.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cb47168edcfd240ad4f402ad009154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_162
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 229.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001505c04e29cfa49a4abdb61c1bac1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_163
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 229.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c724923d670ab7e4ca11843f65105695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_164
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 229.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c7532153569a34e9d123a0de544eef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_165
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 229.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2ad5cab48aabd4c992853025bf9b4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_166
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 229.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109d62286d1086f43970431e6d7e3f89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_167
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 229.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53e031e6d50c8f4a97c40d862cd4dc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23b689d5ad0e484392db6c864cc5b43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_169
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 209.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cb2d8060c813442a3f7728639b9522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_170
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 209.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7e94da1d4bc834a912219832eddf49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_171
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 209.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4294bd4e86ccba4e91df49a73eeed2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_172
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 209.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda1e50a58c93fa44a8c325ee254661f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_173
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 209.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b38ad49ac5068b48886ac28d4cfaf5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_174
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 209.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16430f538f47b9d44834fac0de86ece9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_175
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 209.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e7e53b1f967b743af88620c8848b8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_176
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 209.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9357dd4e40cd564d8795a9bc45a87ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_177
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 209.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c93a27351d0964a9718baa696d6f56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_178
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 209.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6cbdc9e2df2784895454576ce84c5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_179
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 209.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78dc33ca5deaed4ba8ca4feb40a54a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_180
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 209.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e967268a30652499c81b5503337706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_181
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 209.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0c71966fcdc4c4ba79831a9a2eb4e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_182
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 209.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccd822e07eb5a346baa098948bc409c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_183
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 209.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e25abe97f00f4c49b93f6fbf3046523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_184
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 209.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a07978b1e8dc94896214250b1cf02e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_185
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 209.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176da5c055027da41a4390cbcb0873f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_186
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 209.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3117bb92e5b95e479c1804029527b7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_187
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 209.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c672c99da447043b0612954517dca2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_188
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0e607e1fc3c4d44911907d3233eba5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_189
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 189.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14784452d62d4a64494d4165f2b2706c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_190
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 189.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea48eb0d3cefb14b9da995087318ee5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_191
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 189.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d2a90cc0a67fe4db9cf405cde40207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_192
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 189.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8263b09cf553944ab831522db51daa3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_193
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 189.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c71a84e139d914fb0cf0cf060562cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_194
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 189.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7f0f46cc6a384499ed561c59c48dcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_195
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 189.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3292c0c85e8484b8aba4c0fcc9ba71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_196
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 189.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750a78981540a74459b303c8437fb769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_197
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 189.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0af161069ae8f479cf206bee0004bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_198
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 189.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc16aa1400e8804a80275cbad97e804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_199
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 189.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bbb6f16addf1044a55859f370a0280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_200
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 189.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c50a87c49400a4789a00a3b7e4f0e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_201
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 189.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbe6ac78c7fc3747859bee48dd391b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_202
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 189.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bdc3760cea80146bc5f5e5bc6a9ff6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_203
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 189.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69621e801add89459f71cdfb938dcbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_204
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 189.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d0e3e0a5434794c9eda65288000f35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_205
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 189.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2002f5d2bc972c04998b60f13eaa24ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_206
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 189.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815ef08adf977bc4898f8111ec3735fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_207
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 189.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e64fa623f425f409c5095ccb6e4f24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05fa442673d25f41aebaddca6aaaeff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_209
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 169.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e371e81cf9b0454a88ec1863292cec9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_210
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 169.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b8f7c5914f3824bb0bfd1b9b10c001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_211
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 169.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f98de25b544be43b37aa4a36149eb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_212
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 169.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224bf2246bfd55a4db81dc5799080f0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_213
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 169.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ceade00c6dfc6242b0af7f79dce9563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_214
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 169.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95edaea4a8b74f64082ec1bf021940ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_215
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 169.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a27c76c8c4d6b41a9ed6133868f965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_216
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 169.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d815367529acb934c83af5aee2a26b4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_217
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 169.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6a3b2f319590b4aa6cdafbea8c57b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_218
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 169.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8c6304828e4be48bdd99b653b9d4b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_219
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 169.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdfa6de6df6df1419386544ab3cf9a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_220
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 169.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e51ddc0a23e5bc4fb3d2864842cf723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_221
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 169.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2717692b056d7c459d54572197534c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_222
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 169.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1551951417bdf4f8a52902f641a5e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_223
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 169.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be847729187a2064c861074c92547b4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_224
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 169.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4408cc7edbb088c43b64c2acf10b57a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_225
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 169.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e41d1231ddad8e40b09fa7fc0fb9453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_226
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 169.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12bf7bfe390c6e46a4f39e0ec009e0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_227
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 169.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570a03d4cf163d84bb905e96c9a07393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_228
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 149.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4a85bc30837c74a9e965d71bb4f73a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_229
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 149.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0be2172d99abb84d820d6a292e68b8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_230
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 149.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664e26ceb44a42a4d868f510b7ae7b2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_231
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 149.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51e9abb446390c44b06f1fcc404f22e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_232
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 149.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e726d207ff9a0c2439a1f93d15ba8c85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_233
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 149.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95c801f3b4528d47910147c9b9ffe27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_234
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 149.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0628dd0dce32e4d91ec0cc6e3f0654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_235
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 149.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7ab2aa5ceb9e746a92cc9d3e406399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_236
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 149.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baed639b95f26c848ba623b35e465afd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_237
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 149.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393b21b70dbf683478e223b2ab9ff161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_238
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 149.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94537e14715f46540a29fe16fb5d5aaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_239
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 149.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd01cd0f739a1b4389d7a38ae03129b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_240
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 149.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94ab6f4faab82844b0ad633fcd928e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_241
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 149.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bca5c4652846e4a973edd922704dd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_242
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 149.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a28c9cce4527443a57db1ff3aa0484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_243
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 149.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5b4daee4cd2da4498ab45ae27b00c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_244
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 149.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63acb1d97daa20547b8dd0cd820c9935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_245
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 149.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a927c442d6ae6c44bb497582aa92d88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_246
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 149.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698b5b8f312c7204595494d3dfc4dd21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_247
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e1ad294fb3eee42876915bdcfab596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_248
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 129.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a61ac3bb14de2b4f848eb085b34f61b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_249
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 129.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cb5193db3d2134b85878844f3f35a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_250
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 129.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856452bc2153b8545b03bd9cb7584e38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_251
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 129.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08b1a6a169154a479a96349dcda8add
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_252
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 129.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d738d68d33c0841bb3728faf697936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_253
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 129.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00251be36f5332648a836e880705ebe0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_254
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 129.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a24eca56403624988d210f900d60ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_255
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 129.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee1452b3e1113843805960f53c4c464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_256
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 129.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5c1500925adfb438a8c9f00a32c075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_257
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 129.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e586b1628ec0674db7cb985d325edcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_258
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 129.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8eb43250fc670f4b8afb9bba10b96cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_259
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 129.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab1f1936a60c0f4d931aeb3966820d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_260
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 129.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed3796dd2a684345b298c67c8557477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_261
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 129.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fac8ef30744e4d479f31e42ac8a4c4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_262
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 129.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab47e4f1a4d18240b4be5b40315bf5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_263
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 129.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c06c24a9a2f4e241aa8a93d59cc9c37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_264
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 129.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96d34a94e2a39e48bea79b83d304557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_265
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 129.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e333515d9e97da43a23d2b52da18d8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_266
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 109.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8451b0ff15f9bd40975de0a0b2a0ac6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_267
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 109.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2d4202209b48a408b152f35ea1de89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_268
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 109.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66ac6d7fdb238149a541abc810ad324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_269
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 109.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f863253b0be9e4240be51036863d792a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_270
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 109.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cf9563ff546d64090f72a1b33cbe21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_271
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 109.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80979574729fd224289331facb1d1c31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_272
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 109.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343545667bef1c2459277aba49eb8495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_273
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 109.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4412a3e03a1160142bdc917494ef69bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_274
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 109.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20abe4083ca6cad41ba196794027e157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_275
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 109.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8da92e9dad43c2408fbe3e58037aecd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_276
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 109.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90f0d5fc4994894693bf570b1a72d12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_277
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 109.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de23a2e9e80cf2c429b2cd4613f277a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_278
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 109.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffee016384cfc1c46846d1111635bb6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_279
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 109.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88b27c8083cebe4897483f1d21eaf96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_280
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 109.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a0fc84719f35144b2f5684537983f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_281
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 89.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf386b34fefe00b43b1f37280bae27dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_282
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 89.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c927022b0a9b547b5f5191af1072df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_283
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 89.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6ae4f02b6b9874285f591765c18228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_284
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 89.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01731ef5198d9bb438816f258f6a0cb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_285
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 89.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a51cf7839239b4db1ff55812cd0b48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_286
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 89.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab66331dc31f76a498595c9801567988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_287
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 89.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e7d2ab276f67348b3f144c2d4248c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_288
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 89.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f3f7a6ae61e3e48afc884091d2ff4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_289
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 89.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28257b0ee597524985a1ddccccf6fe7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_290
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 89.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb7597f91754024381e8dc2fced0b92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_291
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 89.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30232c89f936dc146a25901907f3206c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_292
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 89.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09f0d0afc0b51f4aa096d40059b65f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_293
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 89.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5c08076c003fb45ab5470c12ed8172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_294
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 89.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c0390b32368064a9972fe37f492124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_295
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 89.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedc1c92254973b429e62405ee01af5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_296
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3787453d798f4824e8f03c29d080bad4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_297
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 69.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a338d31e769b1f245b762f7bb5e30916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_298
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 69.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3bb47d50b77374182759494445bdc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_299
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 69.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3b9c91881c7eb4684ef3d6d4f270a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_300
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 69.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3536dabbe0f7942a78d95e18874fe2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_301
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 69.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa527bc3c74f7144a9781a9ea616708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_302
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 69.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc89bde3095e66042a1ed44df1eee7aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_303
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 69.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02682aa149db2b458917f1dd15748d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_304
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 69.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465d410a4ec84f7439ea52931c540f0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_305
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 69.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033ec805b3228cf4aba8f71086f1ce63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_306
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 69.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01864a8704f4574c858846e66c68f3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_307
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 69.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bf9ea86dcad424f8d1e4b8a0643054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_308
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 29.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941d1b80afdf6f440a9f2bcad5c32576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_309
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 29.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f710074b7df9a548959238521e0bc95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_310
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 29.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a7e86d1cbcb6647b03196970fe90d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_311
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 29.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be1db6e89d9dea41ab0ccba2641a145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_312
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 29.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d852bc793209850439f89421ea71878f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_313
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 29.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91e6f48b5a0ae44eb1239c91672882f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_314
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 29.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f077e44ca604f240ac1ed9020723d38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_315
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 29.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef962de703a6ae4ca30072c20f8c587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_316
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 29.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990864495715685449a1261ec291100a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_317
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 29.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3efb10bc0724ba48bbb3db4152ad47c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_318
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 29.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc842a12d817ed24c829cf75cf7614de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_319
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 29.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7c7069aef6909448b1b5dcff840385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_320
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 9.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8c7fee51ed78b47bc1d05c9e08e515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_321
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 9.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f50d33f163269418940254e303b1b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_322
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 9.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b5a65993204984f95cce84a83907b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_323
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 9.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b16bc398ae4a44990bb0bac4be95f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_324
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 9.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fd413076f7c3e429ec189f8681e465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_325
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 9.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15d0f2146164e04bbfbadb47b237e33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: marioWorldMapTileSet_326
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 9.75
+        width: 15.7
+        height: 15.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e729703df1e3ad848a72183bc816e434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 46d98ae8d71149f429e97998ef09bb94
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
