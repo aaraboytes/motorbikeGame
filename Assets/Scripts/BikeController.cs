@@ -34,14 +34,17 @@ public class BikeController : MonoBehaviour {
 				moveBW+=speed;
 			else
 				moveBW = maxSpeed;
-		}else if(Input.GetKey(KeyCode.F)){
+            backWheel.motor = backMotor;
+        }
+        else if(Input.GetKey(KeyCode.F)){
             backWheel.useMotor = true;
             if (moveBW>-maxSpeed)
 				moveBW-=speed;
 			else
 				moveBW = -maxSpeed;
-		}else{
-			moveBW=0;
+            backWheel.motor = backMotor;
+        }
+        else{
             backWheel.useMotor = false;
 		}
 
@@ -51,14 +54,17 @@ public class BikeController : MonoBehaviour {
 				moveFW+=speed;
 			else
 				moveFW = maxSpeed;
-		}else if(Input.GetKey(KeyCode.K)){
+            frontWheel.motor = frontMotor;
+        }
+        else if(Input.GetKey(KeyCode.K)){
             frontWheel.useMotor = true;
             if (moveFW > -maxSpeed)
 				moveFW-=speed;
 			else
 				moveFW = -maxSpeed;
-		}else{
-            moveFW = 0;
+            frontWheel.motor = frontMotor;
+        }
+        else{
             frontWheel.useMotor = false;
 		}
 
@@ -79,8 +85,8 @@ public class BikeController : MonoBehaviour {
 	void FixedUpdate(){
 		backMotor.motorSpeed = moveBW;
 		frontMotor.motorSpeed = moveFW;
-		backWheel.motor = backMotor;
-		frontWheel.motor = frontMotor;
+		
+		
 		chasis.AddTorque(rotation);
 		if(Input.GetAxisRaw("Jump")!=0){
 			if(IsGrounded()){
