@@ -20,8 +20,15 @@ public class BikeController : MonoBehaviour {
 	JointMotor2D backMotor,frontMotor;
 	
 	float moveBW,moveFW,rotation;
-	
-	void Start () {
+    bool jumped = false;
+
+    private void OnDrawGizmosSelected()
+    {
+        Gizmos.color = Color.red;
+        Gizmos.DrawSphere(collisionDetector.transform.position, detectorRadius);
+    }
+
+    void Start () {
 		chasis = GetComponent<Rigidbody2D>();
 		backMotor = backWheel.motor;
 		frontMotor = frontWheel.motor;
@@ -45,6 +52,7 @@ public class BikeController : MonoBehaviour {
             backWheel.motor = backMotor;
         }
         else{
+            //moveBW = 0;
             backWheel.useMotor = false;
 		}
 
@@ -65,6 +73,7 @@ public class BikeController : MonoBehaviour {
             frontWheel.motor = frontMotor;
         }
         else{
+            //moveFW = 0;
             frontWheel.useMotor = false;
 		}
 
@@ -86,10 +95,11 @@ public class BikeController : MonoBehaviour {
 		backMotor.motorSpeed = moveBW;
 		frontMotor.motorSpeed = moveFW;
 		
-		
 		chasis.AddTorque(rotation);
 		if(Input.GetAxisRaw("Jump")!=0){
-			if(IsGrounded()){
+			if(IsGrounded() && !jumped){
+                jumped = true;
+                Invoke("ActivateJump", 0.3f);
 				chasis.AddForce(Vector3.up * jumpForce);
 				Debug.Log("Jumping");
 			}
@@ -101,4 +111,9 @@ public class BikeController : MonoBehaviour {
 		Debug.Log(detect);
 		return detect;
 	}
+
+    void ActivateJump()
+    {
+        jumped = false;
+    }
 }

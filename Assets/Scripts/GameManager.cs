@@ -29,7 +29,11 @@ public class GameManager : MonoBehaviour {
 	}
     private void Update()
     {
-        if(gameOverScreen == null) gameOverScreen = GameObject.FindGameObjectWithTag("GameOverScene");
+        if (gameOverScreen == null)
+        {
+            gameOverScreen = GameObject.FindGameObjectWithTag("GameOverScreen");
+            gameOverScreen.SetActive(false);
+        }
         if(playerController == null) playerController = Transform.FindObjectOfType<BikeController>();
     }
     public void GameOver(){
@@ -42,6 +46,6 @@ public class GameManager : MonoBehaviour {
         for(int i = 0;i<sceneNames.Length;i++)
         if(SceneManager.GetActiveScene().name == sceneNames[i])
             actualScene = i;
-        SceneManager.LoadScene(actualScene + 1);
+        SceneManager.LoadScene(sceneNames[actualScene+1]);
     }
 }
